@@ -7,9 +7,7 @@
   - [1.2 Kubernetes 101](introduction/101.md)
   - [1.3 Kubernetes 201](introduction/201.md)
   - [1.4 Kubernetes 集群](introduction/cluster.md)
-
-核心原理
-
+  
 - [2. 核心原理](architecture/index.md)
   - [2.1 架构原理](architecture/architecture.md)
     - [设计理念](architecture/concepts.md)
@@ -93,9 +91,7 @@
     - [部署 DNS 扩展](deploy/kubernetes-the-hard-way/12-dns-addon.md)
     - [烟雾测试](deploy/kubernetes-the-hard-way/13-smoke-test.md)
     - [删除集群](deploy/kubernetes-the-hard-way/14-cleanup.md)
-
-插件指南
-
+    
 - [5. 插件扩展](plugins/index.md)
   - [5.1 访问控制](plugins/auth.md)
     - [RBAC 授权](plugins/rbac.md)
@@ -126,8 +122,6 @@
   - [5.8 Scheduler 扩展](plugins/scheduler.md)
   - [5.9 Device 插件](plugins/device.md)
 
-实践案例
-
 - [6. 应用管理](apps/index.md)
   - [一般准则](apps/patterns.md)
   - [滚动升级](apps/service-rolling-update.md)
@@ -152,14 +146,10 @@
   - [容器安全](practice/security.md)
   - [审计](practice/audit.md)
 
-开发与社区贡献
-
 - [8. 开发指南](devel/index.md)
   - [开发环境搭建](devel/index.md)
   - [单元测试和集成测试](devel/testing.md)
   - [社区贡献](devel/contribute.md)
-
-附录
 
 - [9. 附录](appendix/index.md)
   - [生态圈](appendix/ecosystem.md)
