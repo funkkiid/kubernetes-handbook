@@ -1,5 +1,7 @@
 # Kubernetes 指南
 
+> 本开源书 forked from [Kubernetes 指南](https://github.com/feiskyer/kubernetes-handbook)，作者为 [feiskyer](https://github.com/feiskyer)，欢迎大家 star 原作者的 [repo](https://github.com/feiskyer/kubernetes-handbook)，以便获得最新更新，谢谢！
+
 Kubernetes 是谷歌开源的容器集群管理系统，是 Google 多年大规模容器管理技术 Borg 的开源版本，也是 CNCF 最重要的项目之一，主要功能包括：
 
 - 基于容器的应用部署、维护和滚动升级
